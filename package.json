@@ -1,6 +1,6 @@
 {
   "name": "@prelude/prelude",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prelude module.",
   "type": "module",
   "main": "./cjs/index.js",
